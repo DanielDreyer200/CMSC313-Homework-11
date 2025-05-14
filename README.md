@@ -8,4 +8,4 @@ BUILD INSTRUCTIONS: to build the program, please locate the HW11.asm file in you
 
 TESTING METHODOLOGY: after running the build instructions you will notice a HW11.o file and a HW11 program, then you know you have run it successfully, if you'd like to change the address data so other values can be produced, you can change them in the inputBuf area under the .data section, (the data already placed is the data given in the homework 11 instructions) it should desplay something like the example shown and submitted in my homework 11 assignmnet
 
-ADDITIONAL INFORMATION: if you would like to know any more information on a particular section or line of code, i have placed comments throughout the program
+ADDITIONAL INFORMATION: if you would like to know any more information on a particular section or line of code, i have placed comments throughout the program, lastly, the extra credit portion of subroutine is showned with the call statments to convert to ascii section
